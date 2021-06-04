@@ -2,7 +2,7 @@ spring:
   application:
     name: usian-sso-web
 server:
-  port: 8099
+  port: 8098
 eureka:
   client:
     service-url:
